@@ -1,1 +1,1 @@
-1. Script para eliminar registros duplicados de mayor, donde la fecha es igual. Deja solo uno de los registros duplicados en la tabla.
+1. [Script](http://172.16.1.6:9090/agutierrez/sql-scripts/blob/master/borrarMayorDuplicado.sql) para eliminar registros duplicados de mayor, donde la fecha es igual. Deja solo uno de los registros duplicados en la tabla.
