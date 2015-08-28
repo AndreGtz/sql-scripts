@@ -1,0 +1,1 @@
+1. Script para eliminar registros duplicados de mayor, donde la fecha es igual. Deja solo uno de los registros duplicados en la tabla.
